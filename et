@@ -1,0 +1,91 @@
+[33mcommit 91e4eb21e2f4dc9c54f6b6e0d2e09356ecdf3b94[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 5b70dfb 2fb5b62
+Author: liamscrase <liamscrase1@gmail.com>
+Date:   Thu Sep 17 16:47:04 2026 +1200
+
+    Merge branch 'main' of https://github.com/liamscrase/webflyx
+
+[33mcommit 2fb5b62cc7ca9232faf4fdbf26d5066f88372782[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: liamscrase <liamscrase1@gmail.com>
+Date:   Thu Sep 17 16:39:18 2026 +1200
+
+    J: update classics.csv
+
+[33mcommit 621554148f47e6de1897f904e7b4a1c33a8738bd[m
+Author: liamscrase <liamscrase1@gmail.com>
+Date:   Thu Sep 17 16:37:14 2026 +1200
+
+    K: Add movie titles and details to classics.csv
+
+[33mcommit 29918069822087c1de4e7acd74c412cfc07cd1f9[m
+Author: liamscrase <liamscrase1@gmail.com>
+Date:   Thu Sep 17 16:36:51 2026 +1200
+
+    Update classics.csv
+
+[33mcommit df3d3021ade3ec23bcac6ddbd52902e5ab44e58e[m
+Author: liamscrase <liamscrase1@gmail.com>
+Date:   Thu Sep 17 16:36:07 2026 +1200
+
+    Add classics.csv with movie titles and details
+
+[33mcommit 5b70dfbd4b1a5f3bd45d394cd2e0820790720b43[m[33m ([m[1;32mupdate_dune[m[33m)[m
+Author: liamscrase <liamscrase1@gmail.com>
+Date:   Thu Sep 17 15:10:11 2026 +1200
+
+    I: Fear
+
+[33mcommit 828e48b90409a1fde7f9278447a03b1bc5178107[m
+Author: liamscrase <liamscrase1@gmail.com>
+Date:   Thu Sep 17 14:21:20 2026 +1200
+
+    H: spice
+
+[33mcommit db2a7855b728ba9ce02e6bf8660a234d28949fc1[m
+Author: liamscrase <liamscrase1@gmail.com>
+Date:   Thu Sep 17 13:57:26 2026 +1200
+
+    G: added benjamin
+
+[33mcommit 378038023ce63d32ded810b3097b5dfbc6ee4456[m
+Merge: 5be45e5 447ebef
+Author: liamscrase <liamscrase1@gmail.com>
+Date:   Thu Sep 17 13:46:53 2026 +1200
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 5be45e570f2c2fd5639da5da3ea45850c802b5fb[m
+Author: liamscrase <liamscrase1@gmail.com>
+Date:   Thu Sep 17 13:43:18 2026 +1200
+
+    E: added contents
+
+[33mcommit 447ebef8c2fb4fc6ef0e9efe31e78a958f352165[m
+Author: liamscrase <liamscrase1@gmail.com>
+Date:   Thu Sep 17 13:22:16 2026 +1200
+
+    D: added classics
+
+[33mcommit a3784768cd8a5b7ce0cde114373ee84c8b0fe304[m
+Author: liamscrase <liamscrase1@gmail.com>
+Date:   Thu Sep 17 11:54:45 2026 +1200
+
+    C: changes
+
+[33mcommit 43c312230e1239ccd2ee1dac6d2546e8d8f721f4[m
+Author: liamscrase <liamscrase1@gmail.com>
+Date:   Thu Sep 17 11:31:10 2026 +1200
+
+    C: add quotes
+
+[33mcommit 12bc9822ac16e576e924f9264fc1b91e59bbea0e[m
+Author: liamscrase <liamscrase1@gmail.com>
+Date:   Thu Sep 17 11:17:00 2026 +1200
+
+    B: add titles
+
+[33mcommit 66ea41190ba3d43efac2eff37d4ffd655b9ec7ea[m
+Author: liamscrase <liamscrase1@gmail.com>
+Date:   Wed Aug 19 20:45:16 2026 +1200
+
+    A: add contents.md
